@@ -1,0 +1,2 @@
+# SqlQueriesOracle
+test task
